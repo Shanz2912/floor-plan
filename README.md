@@ -1,4 +1,4 @@
-approach for solution of task:
+approach to solution of task:
 
 We can tag specific id for space in any regular/polygan shaped site based on their properties length,breadth,area..etc)
 based on that we can place suitable chairs and utilize maximum space
