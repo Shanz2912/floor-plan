@@ -20,11 +20,17 @@ User can not place chair with same space id's(to avoid duplicates)
 
 User can delete chair from spaces in blueprint
 
-User can check previous floor plan by click on previous button 
+User can check previous floor plan by click on previous button
+
+To add chairs in canteen separate form is created.User can create space id and place chair at a time
 
 When User click on enterence gates (direction icons) It will directs to spaces in the block
 
 If user reloads page then it reset all variables values to intial values
+
+ code changes(updated):
+ ng-repeat is used for code reusability.user only can create space id's and place chairs 
+ 
 
 
 
