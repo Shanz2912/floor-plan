@@ -1,4 +1,4 @@
-/* author @Bhavani Shankar */
+/* author @Shankar */
 angular.module('building', []).controller('FloorplanCtrl',
 	function($scope) {
     var delCount = 0;
